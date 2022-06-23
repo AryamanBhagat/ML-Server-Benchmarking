@@ -1,0 +1,14 @@
+grpcio
+matplotlib
+numpy
+opencv-python
+protobuf
+pycocotools
+PyYAML
+scikit-learn
+seaborn
+torch==1.10.0+cu113
+torchaudio==0.10.0+cu113
+torchvision==1.10.0+cu113
+traitlets
+tqdm
